@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI-Powered Customer Support Assistant (AWS Lambda + Claude 3 via Bedrock)
 
 This project is a **serverless AI chatbot** that uses **AWS Lambda**, **Amazon API Gateway**, and **Amazon Bedrock** to deliver intelligent customer support powered by **Claude 3 Haiku** from Anthropic.
@@ -31,3 +32,7 @@ Amazon Bedrock → Claude 3 Haiku
   Lambda returns AI response
         ↓
      Client receives reply
+=======
+# ai-customer-support-aws-lambda
+This project is a serverless AI-powered customer support assistant built using AWS Lambda, Amazon API Gateway, and Amazon Bedrock (Claude 3 Haiku). It enables natural language interaction via HTTP API and leverages Anthropic's Claude model for real-time responses. Designed for hackathons and cloud-native learning.
+>>>>>>> 1f6f332cfb19497dbb8217e95e6a4e999c740c09
